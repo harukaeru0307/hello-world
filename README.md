@@ -1,2 +1,8 @@
 # hello-world
-Just another repository
+ちょうど別のリポジトリ
+
+Hi Humans!
+
+I can't speak english!!!
+
+exuseme!!!!!
